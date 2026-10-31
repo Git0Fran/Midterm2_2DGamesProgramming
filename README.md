@@ -85,4 +85,4 @@ Replace `main.cpp` with the actual name of your source file.
 
 ## Author
 
-Made by **YOUR NAME** for 2D Games Programming.
+Made by Francisca for 2D Games Programming.
